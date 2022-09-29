@@ -1,0 +1,29 @@
+
+!!! snapshots.zip արխիվը պարունակում է որոշ նկարներ հանձնարարության կատարման ընթացքը ինքնուրույն վերահսկելու համար !!!
+
+1. https://outlook.live.com/owa/ 
+Ստեղծել @outlook.com e-mail հետևյալ ձևաչափով՝
+	n-lastname@outlook.com
+(Անվան առաջին տառը)-(ազգանունը)@outlook.com
+Օրինակ՝ g-arakelyan@outlook.com
+
+2. Նոր ստեղծած e-mailից ուղարկել mail 
+<asue-sysadm-Fall2022@outlook.com>-ին
+
+To: asue-sysadm-Fall2022@outlook.com
+Subject: Test from 'Անուն Ազգանուն'
+
+3. https://github.com/
+Օգտագործելով ստեղծած @outlook.com e-mailը բացել նոր հաշիվ Github-ում՝
+
+4. Մուտք գործել Github օգտագործելով ստեղծած հաշիվը։
+
+5. Ստեղծել public repository 'Testing'
+6. Տեղադրել կամայական file 'Testing' repository-ում
+7. Ստեղծել repository 'MyCompletedTasks'
+8. 'Settings' կարգավորումներում գտնել 'Change visibility' և փոխել 'MyCompletedTasks' հասանելիությունը 'public'ից 'private'
+9. Համոցվեք որ փոփոխությունը կատարված է։
+10. 'MyCompletedTasks' repository 'Settings' կարգավորումներում գտեք 'Collaborators' և ավելացրեք ASUE-Infosys2020 հաշիվը։
+
+
+
